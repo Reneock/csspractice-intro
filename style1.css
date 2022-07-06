@@ -1,0 +1,48 @@
+body {
+			background-image: url("https://i.guim.co.uk/img/media/fe1e34da640c5c56ed16f76ce6f994fa9343d09d/0_174_3408_2046/master/3408.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=67773a9d419786091c958b2ad08eae5e");
+			background-repeat: no-repeat;
+			background-size: cover;
+			background-position: center;
+
+		
+		}
+
+		h1 {
+			color:yellowgreen; font-size: 30px;
+		}
+
+		ol {
+			color: purple;
+		}
+
+		ul {
+			color: royalblue;
+		}
+
+		.introduction {
+			background-color: forestgreen;
+		}
+
+		#head {
+			color: orangered;
+		}
+
+		div {
+			height: 30vh;
+			width: 40%;
+			border: 5px solid darkred;
+			border-radius: 30px;
+			margin-right: 50px;
+			margin-top: 100px;
+		}
+
+		/* this is to aid in making comments in css
+		remember for borders you always have to add the line size, the colour and width. like the above 
+		vh is view height
+		padding is the space in the margin
+		margin is the space around the margin*/
+
+		
+
+
+
